@@ -12,4 +12,3 @@ RUN set -x && \
 # localeの変更
 ENV LANG=ja_JP.UTF-8
 
-EXPOSE 3000

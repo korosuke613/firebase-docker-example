@@ -10,8 +10,6 @@ services:
     environment:
       SHELL: "/bin/bash"
       HOME: "/root"
-    ports:
-      - "127.0.0.1:9898:3000"
 volumes:
   firebase_example_sync:
     external: true
