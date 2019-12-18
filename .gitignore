@@ -1,0 +1,7 @@
+node_modules
+.nuxt/
+dist/
+sw.js
+.DS_Store
+yarn-error.log
+.docker-sync
