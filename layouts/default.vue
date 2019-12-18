@@ -105,6 +105,11 @@ export default {
           icon: 'mdi-chart-bubble',
           title: 'Inspire',
           to: '/inspire'
+        },
+        {
+          icon: 'mdi-book-information-variant',
+          title: 'Forms',
+          to: '/forms'
         }
       ],
       miniVariant: false,
