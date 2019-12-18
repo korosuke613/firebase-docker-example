@@ -20,3 +20,13 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Firebase Setup
+
+```bash
+# login to firebase
+$ firebase login
+
+# initialize firebase
+$ firebase init
+```
