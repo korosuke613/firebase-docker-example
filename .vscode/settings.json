@@ -1,7 +1,6 @@
 {
     "editor.tabSize": 2,
     "editor.tabCompletion": "on",
-    "eslint.autoFixOnSave": true,
     "eslint.validate": [
         {
             "language": "vue",
@@ -13,6 +12,9 @@
         "source.fixAll.eslint": true
     },
     "[vue]": {
+        "editor.formatOnSave": false
+    },
+    "[js]": {
         "editor.formatOnSave": false
     },
 }
